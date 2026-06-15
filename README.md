@@ -1,5 +1,10 @@
 # Olá! Eu sou o Martinho 👋
 
+<p align="left">
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D-Viana_do_Castelo_/_Braga-f59e0b?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Open_to-Collaborate-3fb950?style=flat-square" alt="Open to Collaborate" />
+</p>
+
 Estudante de **Engenharia de Computação Gráfica e Multimédia**. O meu foco é unir design interativo, engenharia de software e Inteligência Artificial para construir produtos digitais robustos. Mais do que escrever código, desenvolvo soluções com uma visão estratégica, focada no negócio e nas finanças.
 
 ---
@@ -28,10 +33,42 @@ Aqui estão os meus principais projetos organizados por áreas de desenvolviment
 
 ### 🛠️ Tecnologias & Competências
 
-*   **Linguagens:** JavaScript, Node.js, Express.js, HTML & CSS, Python, C, Kotlin, SQL.
-*   **Bases de Dados:** PostgreSQL, SQLite.
-*   **Ferramentas & Design:** Git, Render, Netlify, Blender (3D), Design UI/UX, Illustrator.
-*   **Gestão & Finanças:** Finanças Pessoais, Gestão & Negócios, Literacia Financeira.
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <br/>
+  <!-- Databases & Deploy -->
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <br/>
+  <!-- Graphics & Design -->
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luismartinho21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f59e0b&icon_color=f59e0b&text_color=c9d1d9" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismartinho21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f59e0b&text_color=c9d1d9" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=luismartinho21&theme=tokyonight&hide_border=true&background=0d1117&stroke=f59e0b&ring=f59e0b&fire=ff9a00&currStreakLabel=f59e0b" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luismartinho21&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=f59e0b&line=f59e0b&point=ff9a00" alt="Activity Graph" style="width: 100%; max-width: 800px;" />
+</p>
 
 ---
 
