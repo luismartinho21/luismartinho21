@@ -1,7 +1,6 @@
 # Olá! Eu sou o Martinho 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D-Viana_do_Castelo_/_Braga-f59e0b?style=flat-square" alt="Location" />
   <a href="https://lumar.email/#contact"><img src="https://img.shields.io/badge/Open_to-Collaborate-3fb950?style=flat-square" alt="Open to Collaborate" /></a>
 </p>
 
