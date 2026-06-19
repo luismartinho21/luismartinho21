@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/%F0%9F%93%8D-Viana_do_Castelo_/_Braga-f59e0b?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Open_to-Collaborate-3fb950?style=flat-square" alt="Open to Collaborate" />
+  <a href="https://lumar.email/#contact"><img src="https://img.shields.io/badge/Open_to-Collaborate-3fb950?style=flat-square" alt="Open to Collaborate" /></a>
 </p>
 
 Estudante de **Engenharia de Computação Gráfica e Multimédia**. O meu foco é unir design interativo, engenharia de software e Inteligência Artificial para construir produtos digitais robustos. Mais do que escrever código, desenvolvo soluções com uma visão estratégica, focada no negócio e nas finanças.
