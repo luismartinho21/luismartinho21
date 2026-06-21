@@ -20,7 +20,7 @@ Aqui estão os meus principais projetos organizados por áreas de desenvolviment
 *   **[SacramentoAutomoveis](https://github.com/luismartinho21/SacramentoAutomoveis)** - Plataforma web e painel de administração completo para um stand de automóveis. Desenvolvido em **Node.js**, **Express** e **SQLite**.
 *   **[vendas-tech-worten](https://github.com/luismartinho21/vendas-tech-worten)** - Ferramentas de suporte e automação de processos comerciais.
 *   **[backend-template_TW](https://github.com/luismartinho21/backend-template_TW)** - Estrutura base de backend robusta em Node.js/Express para desenvolvimento ágil.
-*   **[frontend-template_TW](https://github.com/luismartinho21/frontend-template_TW)** - Estrutura base de backend robusta em Node.js/Express para desenvolvimento ágil.
+*   **[frontend-template_TW](https://github.com/luismartinho21/frontend-template_TW)** - Estrutura base de Frontend robusta para desenvolvimento ágil.
 
 #### 🎮 Computação Gráfica & Académicos (IPVC)
 *   **[ProjectHub_EI_ECGM_3B_GrupoC_E](https://github.com/luismartinho21/ProjectHub_EI_ECGM_3B_GrupoC_E)** - Repositório central de projetos e trabalhos académicos no curso de Computação Gráfica.
